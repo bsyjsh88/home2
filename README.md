@@ -1,2 +1,1 @@
-# home2
-git 명령어 공부
+# home2 a branch
